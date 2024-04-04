@@ -5,3 +5,5 @@ This is my first edit
 ## This is the work I have done
 
 TuscanyHOP Website Redesign
+
+## Had issues with user.name and user.email
