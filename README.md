@@ -7,3 +7,5 @@ This is my first edit
 TuscanyHOP Website Redesign
 
 ## Had issues with user.name and user.email
+
+It's not working
