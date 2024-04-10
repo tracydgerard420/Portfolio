@@ -1,3 +1,13 @@
+body{
+    background-color:black;
+}
+
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1024px;
+}
+
 header {
     background-color:#4f5b5e;
     height:118px;
