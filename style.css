@@ -24,6 +24,7 @@ main {
     background-color:#b1A9A8;
     height:400px;
     width:1024px;
+    text-align:center;
     }
 
 footer {
@@ -39,5 +40,11 @@ footer {
         h1{
             font-size:50px;
             color:#4f5b5e
-            font-family:Manhattan;sans-serif
+            font-family:Arial; helvetica; sans-serif;
+            
         }
+        p{  font-size:25px;
+            color:#4f5b5e
+            font-family:Arial; helvetica; sans-serif;
+
+         }
