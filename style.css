@@ -1,3 +1,28 @@
-h1{
-    color:purple:
+header {
+    background-color:#4f5b5e;
+    height:118px;
+    width:1024px;
+
 }
+nav {
+background-color:#76867A;
+height:40px;
+width:1024px;
+}
+
+main {
+    background-color:#b1A9A8;
+    height:400px;
+    width:1024px;
+    }
+
+footer {
+        background-color:#645869;
+        height:100px;
+        width:1024px;
+        }
+        .container{
+            margin-left:auto;
+            margin-right:auto;
+            width:1024px;
+        }
