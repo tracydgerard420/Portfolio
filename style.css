@@ -12,6 +12,8 @@ header {
     background-color:#4f5b5e;
     height:118px;
     width:1024px;
+    text-align:center;
+    padding-top:16px;
 
 }
 nav {
@@ -25,7 +27,7 @@ main {
     height:400px;
     width:1024px;
     text-align:center;
-    }
+}
 
 footer {
         background-color:#645869;
